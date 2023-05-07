@@ -33,7 +33,7 @@ And then:
 
 1.  Open up `android/app/src/main/java/[...]/MainActivity.java`
 
-* Add `import io.github.airamrguez.RNMeasureTextPackage;` to the imports at the top of the file
+* Add `import io.github.wynnej1983.RNMeasureTextPackage;` to the imports at the top of the file
 * Add `new RNMeasureTextPackage()` to the list returned by the `getPackages()` method
 
 2.  Append the following lines to `android/settings.gradle`:

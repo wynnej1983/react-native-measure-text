@@ -3,7 +3,7 @@ package com.example;
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
-import io.github.airamrguez.RNMeasureTextPackage;
+import io.github.wynnej1983.RNMeasureTextPackage;
 import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
 import com.facebook.react.shell.MainReactPackage;

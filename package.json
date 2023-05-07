@@ -14,15 +14,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/airamrguez/react-native-measure-text.git"
+    "url": "git+https://github.com/wynnej1983/react-native-measure-text.git"
   },
   "bugs": {
-    "url": "https://github.com/airamrguez/react-native-measure-text/issues"
+    "url": "https://github.com/wynnej1983/react-native-measure-text/issues"
   },
-  "homepage": "https://github.com/airamrguez/react-native-measure-text#readme",
-  "author": "Airam Rguez",
+  "homepage": "https://github.com/wynnej1983/react-native-measure-text#readme",
+  "author": "Jonathan Wynne",
   "license": "BSD 2-clause License",
   "peerDependencies": {
     "react-native": "^0.41.2"
   }
 }
+
